@@ -1,0 +1,18 @@
+body {
+font-family: 'Poppins', sans-serif;
+}
+
+main { /*Estrutura por trás*/
+min-height: 100vh; /*altura minima*/
+background-color: rgba(250, 230, 200, 0.550);
+/*cor de fundo*/display: flex; /*mantém o main fexivel*/
+align-items: center; /*alinhando ao centro*/
+justify-content: center; /*alinhamento junto ao align*/
+}
+
+.pokedex {
+display: flex;/*trouxe as classes cartoes pokemon e listagem para a direita*/
+gap: 30px; /*da espaço entre os elementos parecido com o br*/
+padding: 30px 0; /*espaçamento entre a borda e o conteudo. 30px afastado da borda pra cima e pra baixo. o 0 é para os lados (Sequencia de fora pra dentro= margin/border/pading/elemento*/
+
+}

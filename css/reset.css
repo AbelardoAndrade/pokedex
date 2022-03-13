@@ -1,0 +1,11 @@
+* {
+padding: 0;
+margin: 0; /*linkar sempre antes de qualquer outro link , serve pra limpar config padrao*/
+box-sizing: border-box;/*Tenta adequar largura, tamanho e altura /imagens*/ /*list-style: none remove os 3 pontos automaticos das listas*/
+
+
+}
+
+ul {
+list-style-type: none;
+}

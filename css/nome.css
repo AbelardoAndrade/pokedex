@@ -1,0 +1,14 @@
+.listagem .pikac {
+font-size: 18px;
+justify-content: space-between;
+}
+.listagem .charm {
+font-size: 14px;
+justify-content: space-between;
+padding: 4px;
+}
+.listagem .gen {
+font-size: 18px;
+justify-content: space-between;
+padding-left: 0px;
+}
